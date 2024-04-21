@@ -11,4 +11,6 @@
  - Ga op zoek naar een geschikte API die in lijn ligt van jouw topic voor jouw langlopende taak.
  - Zoek minstens 3 endpoints op van de API.
 
- *Schrijf hier de 3 endpoints op.*
+https://developer.tuya.com/en/docs/cloud/data-service
+https://developer.tuya.com/en/docs/cloud/smart-home-content-manage
+https://developer.tuya.com/en/docs/cloud/smart-home-data-profile
